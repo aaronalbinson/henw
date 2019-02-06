@@ -56,6 +56,9 @@ elements:
       - caption: Hot Perforation Pin Segment
         src: /img/imag0015.jpg
         thumbnail: /img/imag0015.jpg
+      - src: /img/imag0097.jpg
+        thumbnail: /img/imag0097.jpg
+      - {}
     type: gallery
 ---
 
