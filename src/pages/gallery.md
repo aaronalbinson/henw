@@ -34,6 +34,9 @@ elements:
       - caption: Fountain Nozzles
         src: /img/fountain water jet nozzles.jpg
         thumbnail: /img/fountain water jet nozzles.jpg
+      - caption: Embossing rollers
+        src: /img/imag0095.jpg
+        thumbnail: /img/imag0095.jpg
     type: gallery
 ---
 
