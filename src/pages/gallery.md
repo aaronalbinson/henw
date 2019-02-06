@@ -37,6 +37,9 @@ elements:
       - caption: Embossing rollers
         src: /img/imag0095.jpg
         thumbnail: /img/imag0095.jpg
+      - caption: Embossing rollers
+        src: /img/imag0097.jpg
+        thumbnail: /img/imag0097.jpg
     type: gallery
 ---
 
