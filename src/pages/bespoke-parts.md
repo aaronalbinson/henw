@@ -23,7 +23,9 @@ elements:
       We can also replace any pinned rollers for other types of Perforators used
       throughout the world.  Patterns include P1, P1.5, P8, P30 and P160,
       including straight and diamond patterns in Steel and Brass for hot and
-      cold perforators. [View our Gallery](/gallery)
+      cold perforators.  We manufacture high density brush rollers and heated
+      rollers used widely in the converting industry. [View our
+      Gallery](/gallery)
     type: text
   - galleryitem:
       - caption: Aluminium Clamp for Welding Machine
@@ -59,6 +61,9 @@ elements:
       - src: /img/imag0097.jpg
         thumbnail: /img/imag0097.jpg
       - {}
+      - caption: High density brush rollers
+        src: /img/imag0118.jpg
+        thumbnail: /img/imag0118.jpg
     type: gallery
 ---
 
