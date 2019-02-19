@@ -41,5 +41,10 @@ elements:
         src: /img/imag0097.jpg
         thumbnail: /img/imag0097.jpg
     type: gallery
+  - galleryitem:
+      - caption: High density brush roller
+        src: /img/imag0118.jpg
+        thumbnail: /img/imag0118.jpg
+    type: gallery
 ---
 
