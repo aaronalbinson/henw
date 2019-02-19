@@ -64,6 +64,9 @@ elements:
       - caption: High density brush rollers
         src: /img/imag0118.jpg
         thumbnail: /img/imag0118.jpg
+      - caption: Heated segment rollers for hot pin perforating machines
+        src: /img/20190207_133159.jpg
+        thumbnail: /img/20190207_133159.jpg
     type: gallery
 ---
 
