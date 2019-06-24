@@ -8,6 +8,7 @@ footer.footer {
   justify-content: space-between;
   border-top: 8px solid $primary-invert;
   padding: 20px;
+  position: relative;
 }
 
 .footerAddress {
@@ -32,4 +33,10 @@ footer.footer {
       }
     }
   }
+}
+
+.FooterMadeBy {
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
 }
