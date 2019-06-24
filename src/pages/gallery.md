@@ -43,21 +43,11 @@ elements:
       - caption: High density brush roller
         src: /img/imag0118.jpg
         thumbnail: /img/imag0118.jpg
-    type: gallery
-  - galleryitem:
-      - caption: PX5 needle perforator
-        src: /img/img-20190514-wa0013.jpg
+      - src: /img/img-20190514-wa0013.jpg
         thumbnail: /img/img-20190514-wa0013.jpg
-    type: gallery
-  - galleryitem:
       - caption: PX5 needle perforator
         src: /img/20190624_111304.jpg
         thumbnail: /img/20190624_111304.jpg
-    type: gallery
-  - galleryitem:
-      - caption: PX5 needle perforator
-        src: /img/20190624_111503.jpg
-        thumbnail: /img/20190624_111503.jpg
     type: gallery
 ---
 
