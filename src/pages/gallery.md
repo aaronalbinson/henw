@@ -54,5 +54,10 @@ elements:
         src: /img/20190624_111304.jpg
         thumbnail: /img/20190624_111304.jpg
     type: gallery
+  - galleryitem:
+      - caption: PX5 needle perforator
+        src: /img/20190624_111503.jpg
+        thumbnail: /img/20190624_111503.jpg
+    type: gallery
 ---
 
