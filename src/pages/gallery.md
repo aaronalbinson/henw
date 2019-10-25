@@ -49,5 +49,10 @@ elements:
         src: /img/20190624_111304.jpg
         thumbnail: /img/20190624_111304.jpg
     type: gallery
+  - galleryitem:
+      - caption: Manual Core Cutter
+        src: /img/core-cutter-1.jpg
+        thumbnail: /img/core-cutter-1.jpg
+    type: gallery
 ---
 
