@@ -6,5 +6,7 @@ elements:
     heroimage: /img/core-cutter-1.jpg
     herotitle: Manual Core Cutter
     type: hero
+  - paragraph: Manual Core Cutter
+    type: text
 ---
 
