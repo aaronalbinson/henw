@@ -9,7 +9,8 @@ elements:
       Manual Core Cutter
 
 
-      ![HEMCC1600 Core Cutter](/img/core-cutter-1.jpg "HEMCC1600 Core Cutter")
+      ![HEMCC1600 Core Cutter](/img/core-cutter-1-small.jpg "HEMCC1600 Core
+      Cutter")
 
 
       This is our 1600mm manual core cutter capable of cutting plastic and
