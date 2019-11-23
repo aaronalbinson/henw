@@ -16,6 +16,7 @@ companyaddress: |-
 sociallinks:
   facebook: >-
     https://www.facebook.com/Heritage-Engineering-North-West-Ltd-1426232660962086/
-  instagram: ""
-  twitter: ""
+  instagram: 'https://www.instagram.com/heritageengineering'
+  twitter: ''
 ---
+
