@@ -4,6 +4,7 @@ import milling from "../../img/milling.svg";
 import welding from "../../img/welding.svg";
 import repair from "../../img/repair.svg";
 import bespoke from "../../img/bespoke.svg";
+import products from "../../img/products.svg";
 
 require("./Services.scss");
 
@@ -36,10 +37,16 @@ class Services extends React.Component {
               <div>Repair Work</div>
             </a>
           </div>
-          <div className="twenty twentyone bespoke">
+          <div className="twenty bespoke">
             <a href="/bespoke-parts">
               <img width="200" src={bespoke} alt="Bespoke parts" />
               <div>Bespoke parts</div>
+            </a>
+          </div>
+          <div className="twenty twentyone products">
+            <a href="/products">
+              <img width="200" src={products} alt="Products" />
+              <div>Our Products</div>
             </a>
           </div>
         </div>
