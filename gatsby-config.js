@@ -11,7 +11,12 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          "gatsby-remark-normalize-paths",
+          {
+            resolve: "gatsby-remark-normalize-paths",
+            options: {
+                pathFields: ["uploads", "pages", "images"],
+            },
+          },
           {
             resolve: "gatsby-remark-relative-images",
             options: {
