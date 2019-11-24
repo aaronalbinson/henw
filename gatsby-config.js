@@ -5,6 +5,7 @@ module.exports = {
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
+    "gatsby-plugin-netlify-cms-paths",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
@@ -27,12 +28,13 @@ module.exports = {
         name: "images"
       }
     },
-    "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          "gatsby-plugin-netlify-cms-paths",
           {
             resolve: "gatsby-remark-relative-images",
             options: {
