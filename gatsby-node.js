@@ -72,16 +72,48 @@ exports.createPages = ({ actions, graphql }) => {
   });
 };
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
+// exports.onCreateNode = ({ node, actions, getNode }) => {
+//   const { createNodeField } = actions;
+//   fmImagesToRelative(node); // convert image paths for gatsby images
+
+//   if (node.internal.type === `MarkdownRemark`) {
+//     const value = createFilePath({ node, getNode });
+//     createNodeField({
+//       name: `slug`,
+//       node,
+//       value
+//     });
+//   }
+// };
+
+exports.onCreateNode = ({
+  node,
+  getNode,
+  actions,
+  loadNodeContent,
+  boundActionCreators,
+}) => {
   const { createNodeField } = actions;
   fmImagesToRelative(node); // convert image paths for gatsby images
-
+  const { frontmatter } = node
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
-    createNodeField({
-      name: `slug`,
-      node,
-      value
-    });
+      const value = createFilePath({ node, getNode });
+      createNodeField({
+        name: `slug`,
+        node,
+        value
+      });
+    }
+  if (frontmatter) {
+    const { image } = frontmatter
+    if (image) {
+      if (image.indexOf('/img') === 0) {
+        frontmatter.image = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', image)
+        )
+      }
+    }
   }
-};
+}
+

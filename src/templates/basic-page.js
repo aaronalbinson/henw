@@ -39,7 +39,7 @@ export const BasicPageTemplate = ({
                     description={element.herodescription}
                     featuredimage={
                       element.heroimage &&
-                      element.heroimage.childImageSharp.fluid.src
+                      element.heroimage
                     }
                     link={element.herolink}
                   />
@@ -57,10 +57,10 @@ export const BasicPageTemplate = ({
                         galleryimage => (
                           (src =
                             galleryimage.src &&
-                            galleryimage.src.childImageSharp.fluid.src),
+                            galleryimage.src),
                           (thumbnail =
                             galleryimage.thumbnail &&
-                            galleryimage.thumbnail.childImageSharp.fluid.src),
+                            galleryimage.thumbnail),
                           (caption = galleryimage.caption),
                           (galleryobject = { src, thumbnail, caption }),
                           galleryarray.push(galleryobject)
@@ -169,34 +169,19 @@ export const pageQuery = graphql`
           type
 
           herodescription
-          heroimage {
-            childImageSharp {
-              fluid(maxWidth: 1000, quality: 70) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
+          heroimage
+
           herotitle
           herolink
 
           paragraph
 
           galleryitem {
-            src {
-              childImageSharp {
-                fluid(maxWidth: 1000, quality: 70) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            src 
+            
             caption
-            thumbnail {
-              childImageSharp {
-                fluid(maxWidth: 500, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            thumbnail 
+
           }
 
           quotetitle
@@ -208,3 +193,27 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+          // {
+          //   childImageSharp {
+          //     fluid(maxWidth: 1000, quality: 70) {
+          //       ...GatsbyImageSharpFluid
+          //     }
+          //   }
+          // }
+
+          // {
+            //   childImageSharp {
+            //     fluid(maxWidth: 1000, quality: 70) {
+            //       ...GatsbyImageSharpFluid
+            //     }
+            //   }
+            // }
+
+            // {
+            //   childImageSharp {
+            //     fluid(maxWidth: 500, quality: 100) {
+            //       ...GatsbyImageSharpFluid
+            //     }
+            //   }
+            // }

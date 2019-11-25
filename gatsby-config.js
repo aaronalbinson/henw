@@ -1,3 +1,63 @@
+
+
+// module.exports = {
+//   plugins: [
+//     `gatsby-transformer-sharp`,
+//     `gatsby-plugin-sharp`,
+//     "gatsby-plugin-sass",
+//     "gatsby-plugin-netlify-cms-paths",
+//     {
+//       resolve: "gatsby-transformer-remark",
+//       options: {
+//         plugins: [
+//           {
+//             resolve: "gatsby-remark-normalize-paths",
+//             options: {
+//                 pathFields: ["uploads", "pages", "images"],
+//             },
+//           },
+//           {
+//             resolve: "gatsby-remark-relative-images",
+//           },
+//           {
+//             resolve: "gatsby-remark-images",
+//             options: {
+//               // It's important to specify the maxWidth (in pixels) of
+//               // the content container as this plugin uses this as the
+//               // base for generating different widths of each image.
+//               maxWidth: 2048
+//             }
+//           },
+//           {
+//             resolve: "gatsby-remark-copy-linked-files",
+//             options: {
+//               destinationDir: "static"
+//             }
+//           }
+//         ]
+//       }
+//     },
+//     {
+//       resolve: `gatsby-transformer-remark`,
+//       options: {
+//         plugins: [
+//           {
+//             resolve: `gatsby-remark-images`,
+//             options: {
+//               // It's important to specify the maxWidth (in pixels) of
+//               // the content container as this plugin uses this as the
+//               // base for generating different widths of each image.
+//               maxWidth: 930,
+//               backgroundColor: 'transparent', // required to display blurred image first
+//             },
+//           },
+//         ],
+//       }
+//     },
+//     `gatsby-plugin-netlify-cms`,
+//   ],
+// }
+
 module.exports = {
   siteMetadata: {
     title: "Heritage Engineering North West LTD."
