@@ -90,12 +90,9 @@ exports.onCreateNode = ({
   node,
   getNode,
   actions,
-  loadNodeContent,
-  boundActionCreators,
 }) => {
   const { createNodeField } = actions;
   fmImagesToRelative(node) // convert image paths for gatsby images
-  const { frontmatter } = node
   if (node.internal.type === `MarkdownRemark`) {
       const value = createFilePath({ node, getNode });
       createNodeField({
@@ -105,4 +102,3 @@ exports.onCreateNode = ({
       });
     }
 }
-
