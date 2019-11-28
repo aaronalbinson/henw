@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Heritage Engineering North West LTD."
+    title: "Heritage Engineering"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -29,6 +29,7 @@ module.exports = {
     },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-transition-link",
     {
       resolve: "gatsby-transformer-remark",
       options: {
@@ -64,19 +65,25 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`aBeeZee`, `muli`]
+      }
+    },
+    {
       resolve: `gatsby-plugin-favicon`,
       options: {
-        logo: "./src/img/favicon.png",
+        logo: "./src/img/logo.png",
 
         // WebApp Manifest Configuration
-        appName: "Heritage Engineering North West LTD.", // Inferred with your package.json
+        appName: "Heritage Engineering", // Inferred with your package.json
         appDescription: null,
         developerName: null,
         developerURL: null,
         dir: "auto",
         lang: "en-US",
-        background: "#232e3a",
-        theme_color: "#232e3a",
+        background: "#1D516E",
+        theme_color: "#1D516E",
         display: "standalone",
         orientation: "any",
         start_url: "/",
