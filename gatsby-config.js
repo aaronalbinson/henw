@@ -1,66 +1,10 @@
-// module.exports = {
-//   plugins: [
-//     `gatsby-transformer-sharp`,
-//     `gatsby-plugin-sharp`,
-//     "gatsby-plugin-sass",
-//     "gatsby-plugin-netlify-cms-paths",
-//     {
-//       resolve: "gatsby-transformer-remark",
-//       options: {
-//         plugins: [
-//           {
-//             resolve: "gatsby-remark-normalize-paths",
-//             options: {
-//                 pathFields: ["uploads", "pages", "images"],
-//             },
-//           },
-//           {
-//             resolve: "gatsby-remark-relative-images",
-//           },
-//           {
-//             resolve: "gatsby-remark-images",
-//             options: {
-//               // It's important to specify the maxWidth (in pixels) of
-//               // the content container as this plugin uses this as the
-//               // base for generating different widths of each image.
-//               maxWidth: 2048
-//             }
-//           },
-//           {
-//             resolve: "gatsby-remark-copy-linked-files",
-//             options: {
-//               destinationDir: "static"
-//             }
-//           }
-//         ]
-//       }
-//     },
-//     {
-//       resolve: `gatsby-transformer-remark`,
-//       options: {
-//         plugins: [
-//           {
-//             resolve: `gatsby-remark-images`,
-//             options: {
-//               // It's important to specify the maxWidth (in pixels) of
-//               // the content container as this plugin uses this as the
-//               // base for generating different widths of each image.
-//               maxWidth: 930,
-//               backgroundColor: 'transparent', // required to display blurred image first
-//             },
-//           },
-//         ],
-//       }
-//     },
-//     `gatsby-plugin-netlify-cms`,
-//   ],
-// }
-
 module.exports = {
   siteMetadata: {
     title: "Heritage Engineering North West LTD."
   },
   plugins: [
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sass",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
@@ -77,30 +21,48 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/src/img`,
-        name: 'images',
-      },
+        name: "images"
+      }
     },
-    "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: "gatsby-transformer-remark",
       options: {
-          plugins: [
-            'gatsby-remark-relative-images',
-            {
-              resolve: `gatsby-remark-images`,
-              options: {
-                maxWidth: 590,
-              },
-            },
-          ],
-      },
+        plugins: [
+          {
+            resolve: "gatsby-remark-relative-images",
+            options: {
+              name: "uploads"
+            }
+          },
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 2048
+            }
+          },
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+              destinationDir: "static"
+            }
+          }
+        ]
+      }
     },
-    "gatsby-plugin-sass",
-    "gatsby-plugin-react-helmet",   
+    {
+      resolve: "gatsby-plugin-netlify-cms",
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`
+      }
+    },
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
@@ -147,42 +109,6 @@ module.exports = {
     //     ]
     //   }
     // },
-    "gatsby-plugin-netlify-cms",
-    // "gatsby-plugin-netlify" // make sure to keep it last in the array
+    "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
 };
-
-
-// module.exports = {
-//   plugins: [
-//     {
-//       resolve: `gatsby-source-filesystem`,
-//       options: {
-//         path: `${__dirname}/static/img`,
-//         name: 'assets',
-//       },
-//     },
-//     {
-//       resolve: `gatsby-source-filesystem`,
-//       options: {
-//         path: `${__dirname}/src/pages`,
-//         name: 'pages',
-//       },
-//     },
-//     `gatsby-transformer-sharp`,
-//     `gatsby-plugin-sharp`,
-//     {
-//       resolve: `gatsby-transformer-remark`,
-//       options: {
-//         plugins: [
-//           `gatsby-remark-relative-images`,
-//           {
-//             resolve: `gatsby-remark-images`,
-//             options: {},
-//           },
-//         ],
-//       },
-//     },
-//     `gatsby-plugin-netlify-cms`,
-//   ],
-// }
