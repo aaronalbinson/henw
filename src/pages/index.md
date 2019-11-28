@@ -9,7 +9,7 @@ elements:
     herolink: /about
     herotitle: Heritage Engineering
     type: hero
-  - herodescription: Find out what we've been up to
+  - herodescription: 'Find out what we''ve been up to '
     heroimage: /img/xmlid-15.png
     herolink: /news
     herotitle: Latest News
