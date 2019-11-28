@@ -1,5 +1,3 @@
-
-
 // module.exports = {
 //   plugins: [
 //     `gatsby-transformer-sharp`,
@@ -63,10 +61,6 @@ module.exports = {
     title: "Heritage Engineering North West LTD."
   },
   plugins: [
-    "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
-    "gatsby-plugin-sass",
-    "gatsby-plugin-netlify-cms-paths",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
@@ -85,33 +79,28 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/src/img`,
         name: 'images',
       },
     },
-    {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`
-      }
-    },
-
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
     {
       resolve: `gatsby-transformer-remark`,
       options: {
           plugins: [
             'gatsby-remark-relative-images',
-              {
-                  resolve: `gatsby-remark-images`,
-                  options: {
-                      maxWidth: 590,
-                  },
+            {
+              resolve: `gatsby-remark-images`,
+              options: {
+                maxWidth: 590,
               },
+            },
           ],
       },
     },
-    "gatsby-plugin-react-helmet",
-    
+    "gatsby-plugin-sass",
+    "gatsby-plugin-react-helmet",   
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
@@ -158,6 +147,42 @@ module.exports = {
     //     ]
     //   }
     // },
-    "gatsby-plugin-netlify" // make sure to keep it last in the array
+    "gatsby-plugin-netlify-cms",
+    // "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
 };
+
+
+// module.exports = {
+//   plugins: [
+//     {
+//       resolve: `gatsby-source-filesystem`,
+//       options: {
+//         path: `${__dirname}/static/img`,
+//         name: 'assets',
+//       },
+//     },
+//     {
+//       resolve: `gatsby-source-filesystem`,
+//       options: {
+//         path: `${__dirname}/src/pages`,
+//         name: 'pages',
+//       },
+//     },
+//     `gatsby-transformer-sharp`,
+//     `gatsby-plugin-sharp`,
+//     {
+//       resolve: `gatsby-transformer-remark`,
+//       options: {
+//         plugins: [
+//           `gatsby-remark-relative-images`,
+//           {
+//             resolve: `gatsby-remark-images`,
+//             options: {},
+//           },
+//         ],
+//       },
+//     },
+//     `gatsby-plugin-netlify-cms`,
+//   ],
+// }
