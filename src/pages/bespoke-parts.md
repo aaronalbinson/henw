@@ -9,7 +9,7 @@ elements:
       **Reverse engineering**
 
 
-      We specialise in the manufacture of  obsolete and bespoke components from
+      We specialise in the manufacture of obsolete and bespoke components from
       samples and drawings.
 
 
