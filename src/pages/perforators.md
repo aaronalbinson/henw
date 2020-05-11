@@ -24,6 +24,9 @@ elements:
       ](/img/hot-perforator-he.png)
 
 
+      ![](/img/edit-photo.png)
+
+
       **Cold Perforators**
 
 
