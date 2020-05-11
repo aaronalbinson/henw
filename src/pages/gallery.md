@@ -54,7 +54,7 @@ elements:
       - caption: Hot Perforator in action
         src: /img/hot-perf-in-action-4.jpg
         thumbnail: /img/hot-perf-in-action-4.jpg
-      - caption: Hot Perforator in action
+      - caption: Hot Perforator in motion
         src: /img/hot-perf-in-action-3.jpg
         thumbnail: /img/hot-perf-in-action-3.jpg
     type: gallery
