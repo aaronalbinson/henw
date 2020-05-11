@@ -6,7 +6,7 @@ elements:
       We are specialist producers of hot, cold and intermittent perforators for
       commercial industry and supply products nationwide from our UK
       manufacturing base in Greater Manchester.
-    heroimage: /img/xmlid-14.png
+    heroimage: /img/rectangle-4-2x.png
     herolink: /perforators
     herotitle: 'Hot, Cold and Intermittent Perforators'
     type: hero
