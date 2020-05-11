@@ -11,14 +11,14 @@ elements:
     herotitle: 'Hot, Cold and Intermittent Perforators'
     type: hero
   - herodescription: 'Specialist machinery for cardboard, plastic and paper industries'
-    heroimage: /img/xmlid-12.png
+    heroimage: ''
     herolink: 'https://heritageengineeringnw.co.uk/converting-machinery/'
     herotitle: Converting Machinery
     type: hero
   - herodescription: >-
       We specialise in the manufacture of obsolete and bespoke components from
       samples and drawings
-    heroimage: /img/xmlid-15.png
+    heroimage: ''
     herolink: /bespoke-parts
     herotitle: Bespoke Parts
     type: hero
