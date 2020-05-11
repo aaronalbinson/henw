@@ -20,7 +20,8 @@ elements:
       to slitter/rewind units, bag machines etc.
 
 
-      ![Hot  Needle Perforator / Hot Perforation Unit ](/img/perforator.png)
+      ![Hot  Needle Perforator / Hot Perforation Unit
+      ](/img/hot-perforator-he.png)
 
 
       **Cold Perforators**
