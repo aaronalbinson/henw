@@ -21,10 +21,10 @@ elements:
 
 
       ![Hot  Needle Perforator / Hot Perforation Unit
-      ](/img/hot-perforator-he.png)
+      ](/img/hot-perforator-he-2.png)
 
 
-      ![](/img/edit-photo.png)
+      ![](/img/front-face.png)
 
 
       **Cold Perforators**
