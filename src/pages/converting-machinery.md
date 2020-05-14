@@ -6,9 +6,6 @@ elements:
       # Manual Core Cutter
 
 
-      Manual Core Cutter
-
-
       ![HEMCC1600 Core Cutter](/img/core-cutter-1-small.jpg "HEMCC1600 Core
       Cutter")
 
