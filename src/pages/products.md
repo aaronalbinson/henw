@@ -8,7 +8,14 @@ elements:
       manufacturing base in Greater Manchester.
     heroimage: /img/light-blue.png
     herolink: /perforators
-    herotitle: 'Hot, Cold and Intermittent Perforators'
+    herotitle: Hot Perforators
+    type: hero
+  - herodescription: >-
+      We are specialist producers of hot, cold and intermittent perforators for
+      commercial industry and supply products nationwide from our UK
+      manufacturing base in Greater Manchester.
+    heroimage: /img/yellow.png
+    herotitle: Cold and Intermittent
     type: hero
   - herodescription: 'Specialist machinery for cardboard, plastic and paper industries'
     heroimage: /img/orange.png
