@@ -18,22 +18,17 @@ elements:
       Key Benefits:
 
 
-      Easily interchangeable pin segments
+      * Easily interchangeable pin segments
 
+      * Square, diamond and spiral perforation patterns available
 
-      Square, diamond and spiral perforation patterns available
+      * Other patterns to customers specifications
 
+      * Pneumatic open/close operation
 
-      Other patterns to customers specifications
+      * Fully guarded
 
-
-      Pneumatic open/close operation
-
-
-      Fully guarded
-
-
-      Robust construction
+      * Robust construction
 
 
       ![Cold Perforating machine](/img/coldperforator.jpg)
