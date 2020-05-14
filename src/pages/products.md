@@ -8,7 +8,7 @@ elements:
       manufacturing base in Greater Manchester.
     heroimage: /img/light-blue.png
     herolink: /perforators
-    herotitle: Hot Perforators
+    herotitle: Hot Perforator
     type: hero
   - herodescription: >-
       We are specialist producers of hot, cold and intermittent perforators for
@@ -17,10 +17,12 @@ elements:
     heroimage: /img/yellow.png
     herotitle: Cold and Intermittent
     type: hero
-  - herodescription: 'Specialist machinery for cardboard, plastic and paper industries'
+  - herodescription: >-
+      Specialist machinery / Converting Machinery for cardboard, plastic and
+      paper industries 
     heroimage: /img/orange.png
     herolink: 'https://heritageengineeringnw.co.uk/converting-machinery/'
-    herotitle: Converting Machinery
+    herotitle: Manual Core Cutter
     type: hero
   - herodescription: >-
       We specialise in the manufacture of obsolete and bespoke components from
