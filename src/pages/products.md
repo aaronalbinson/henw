@@ -30,7 +30,7 @@ elements:
       Specialist machinery / Converting Machinery for cardboard, plastic and
       paper industries 
     heroimage: /img/orange.png
-    herolink: /converting-machinery
+    herolink: /manual-core-cutter
     herotitle: Manual Core Cutter
     type: hero
   - herodescription: >-
