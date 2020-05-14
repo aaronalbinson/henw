@@ -23,6 +23,7 @@ elements:
       commercial industry and supply products nationwide from our UK
       manufacturing base in Greater Manchester.
     heroimage: /img/paleblue.png
+    herolink: /intermittent-perforators
     herotitle: Intermittent Perforators
     type: hero
   - herodescription: >-
