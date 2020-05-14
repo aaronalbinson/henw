@@ -30,7 +30,7 @@ elements:
       Specialist machinery / Converting Machinery for cardboard, plastic and
       paper industries 
     heroimage: /img/orange.png
-    herolink: 'https://heritageengineeringnw.co.uk/converting-machinery/'
+    herolink: /converting-machinery
     herotitle: Manual Core Cutter
     type: hero
   - herodescription: >-
