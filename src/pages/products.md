@@ -15,7 +15,14 @@ elements:
       commercial industry and supply products nationwide from our UK
       manufacturing base in Greater Manchester.
     heroimage: /img/yellow.png
-    herotitle: Cold and Intermittent
+    herotitle: Cold Perforator
+    type: hero
+  - herodescription: >-
+      We are specialist producers of hot, cold and intermittent perforators for
+      commercial industry and supply products nationwide from our UK
+      manufacturing base in Greater Manchester.
+    heroimage: /img/paleblue.png
+    herotitle: Intermittent Perforators
     type: hero
   - herodescription: >-
       Specialist machinery / Converting Machinery for cardboard, plastic and
