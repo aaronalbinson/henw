@@ -1,9 +1,9 @@
 ---
 templateKey: basic-page
-title: Converting Machinery
+title: Manual Core Cutter
 elements:
   - paragraph: >-
-      # Converting Machinery
+      # Manual Core Cutter
 
 
       Manual Core Cutter
