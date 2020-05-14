@@ -9,6 +9,21 @@ elements:
       **Hot Perforators**
 
 
+      Hot needle perforation is the method of producing micro perforations in
+      modern substrates such as LDPE, LLDPE, HDPE and PP.
+
+
+      The process of hot needle perforation produces a perfectly round hole
+      which is heat sealed or welded around the circumference, therefore
+      retaining the strength and durability of the substrate.
+
+
+      These types of substrate are use widely within the food packaging industry
+      to increase the shelve life of various fresh or frozen produce.
+
+
+
+
       Our Hot Perforators have solid state heater controls with both internal
       and external heated pin rollers. Other features are a timer for automatic
       warm up, automatic speed control which matches the web speed to produce
