@@ -1,6 +1,6 @@
 ---
 templateKey: basic-page
-title: Manual Core Cutter
+title: con
 elements:
   - paragraph: >-
       # Manual Core Cutter
