@@ -15,7 +15,7 @@ elements:
       commercial industry and supply products nationwide from our UK
       manufacturing base in Greater Manchester.
     heroimage: /img/yellow.png
-    herolink: 'https://heritageengineeringnw.co.uk/coldperforators'
+    herolink: /perforators
     herotitle: Cold Perforator
     type: hero
   - herodescription: >-
