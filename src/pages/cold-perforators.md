@@ -36,7 +36,7 @@ elements:
       Robust construction
 
 
-      ![](/img/coldperforator.jpg "Cold Perforating machine")
+      ![Cold Perforating machine](/img/coldperforator.jpg)
     type: text
 ---
 
