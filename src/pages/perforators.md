@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Perforators Hot Needle/Pin perforator
 elements:
   - paragraph: >-
-      # **Hot, Cold and Intermittent Perforators**
+      # **Hot Perforators**
 
 
       **Hot Perforators**
