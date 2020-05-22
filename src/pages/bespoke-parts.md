@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Bespoke Parts
 elements:
   - paragraph: >-
-      # Bespoke Parts
+      # Bespoke Parts and Equipment
 
 
       **Reverse engineering**
@@ -17,14 +17,14 @@ elements:
       cannot find it to buy, we will see if we can fix or replace for you.
 
 
-      **Pin/Needle Segments**
+      **Pin/Needle Segments and Equipment**
 
 
       We specialise in the manufacture of pinned roller needle  segments to suit
       [PX5 Hot and Cold Perforating Machines](/perforators).
 
 
-      We can replace any pinned rollers for most types of Perforatoring Machines
+      We replace any pinned rollers for most types of Perforatoring Machines
       used throughout the world.  
 
 
