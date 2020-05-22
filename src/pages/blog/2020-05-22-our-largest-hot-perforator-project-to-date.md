@@ -12,4 +12,4 @@ We are nearing the end of our latest Hot Perforator Project.  We have 2, PX5 150
 
 ![PX5 1500](/img/double-machine-project-3.jpg)
 
-![PX5 1500](/img/double-machine-project-2.jpg)
+![PX5 1500](/img/px5-1500.jpg)
