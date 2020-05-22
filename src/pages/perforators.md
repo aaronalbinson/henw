@@ -9,7 +9,7 @@ elements:
       **Hot Needle Perforatoring Machine**
 
 
-      **Hot Needle Perforation **is the method of producing micro perforations
+      Hot Needle Perforation** **is the method of producing micro perforations
       in modern substrates such as LDPE, LLDPE, HDPE and PP.
 
 
