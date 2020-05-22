@@ -26,9 +26,9 @@ elements:
       cold perforators.  
 
 
-      Hot Perforator Equipment available from us includes high density brush
-      rollers and heated rollers used widely in the converting industry. [View
-      our Gallery](/gallery)
+      Hot Needle Perforator Equipment available from us includes high density
+      brush rollers and heated rollers used widely in the converting industry.
+      [View our Gallery](/gallery)
     type: text
   - galleryitem:
       - caption: Aluminium Clamp for Welding Machine
