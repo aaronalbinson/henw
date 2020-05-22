@@ -9,8 +9,8 @@ elements:
       **Hot Needle Perforatoring Machine**
 
 
-      Hot Needle Perforation** **is the method of producing micro perforations
-      in modern substrates such as LDPE, LLDPE, HDPE and PP.
+      Hot Needle Perforation\*\* \*\*is the method of producing micro
+      perforations in modern substrates such as LDPE, LLDPE, HDPE and PP.
 
 
       The process of hot needle perforation produces a perfectly round hole
@@ -19,7 +19,7 @@ elements:
 
 
       These types of substrate are use widely within the food packaging industry
-      to increase the shelve life of various fresh or frozen produce.
+      to increase the shelf life of various fresh or frozen produce.
 
 
       Our Hot Perforators have solid state heater controls with both internal
