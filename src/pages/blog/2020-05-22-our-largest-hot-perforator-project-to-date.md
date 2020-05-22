@@ -6,11 +6,9 @@ description: PX5 500 x 2
 tags:
   - '#PX5 500 #Hot perforation'
 ---
-We are nearing the end of our largest Hot Perforator Project.  We have 2, PX5 1500 
+We are nearing the end of our largest Hot Perforator Project.  We have 2, PX5 1500 machines sat next to each other in the workshop nearly ready to go out the door to a local film manufacturer.
 
 ![PX5 500](/img/double-machine-project-1.jpg)
-
-machines sat next to each other in the workshop nearly ready to go out the door to a local film manufacturer.
 
 ![PX5 500](/img/double-machine-project-3.jpg)
 
