@@ -6,11 +6,11 @@ elements:
       # **Hot Perforators**
 
 
-      **Hot Perforators**
+      **Hot Needle Perforatoring Machine**
 
 
-      Hot needle perforation is the method of producing micro perforations in
-      modern substrates such as LDPE, LLDPE, HDPE and PP.
+      **Hot Needle Perforation **is the method of producing micro perforations
+      in modern substrates such as LDPE, LLDPE, HDPE and PP.
 
 
       The process of hot needle perforation produces a perfectly round hole
@@ -22,8 +22,8 @@ elements:
       to increase the shelve life of various fresh or frozen produce.
 
 
-      **Our Hot Perforators** have solid state heater controls with both
-      internal and external heated pin rollers.
+      Our Hot Perforators have solid state heater controls with both internal
+      and external heated pin rollers.
 
 
       We fit the Hot Perforation Machines with easily interchangeable pin
@@ -42,7 +42,7 @@ elements:
 
 
       The Perforators can easily be installed into your existing set up such as
-      slitter rewinder units.
+      slitter rewinder units and film blow lines.
 
 
       ![Hot  Needle Perforator / Hot Perforation Unit
