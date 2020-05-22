@@ -16,16 +16,19 @@ elements:
       **Pin/Needle Segments**
 
 
-      We also specialise in the manufacture of pinned roller needle  segments to
-      suit our [PX5 Hot and Cold Perforating Machines](/perforators).
+      We specialise in the manufacture of pinned roller needle  segments to suit
+      our [PX5 Hot and Cold Perforating Machines](/perforators).
 
 
-      We can also replace any pinned rollers for other types of Perforators used
+      We can replace any pinned rollers for other types of Perforators used
       throughout the world.  Patterns include P1, P1.5, P8, P30 and P160,
       including straight and diamond patterns in Steel and Brass for hot and
-      cold perforators.  We manufacture high density brush rollers and heated
-      rollers used widely in the converting industry. [View our
-      Gallery](/gallery)
+      cold perforators.  
+
+
+      Hot Perforator Equipment available from us includes high density brush
+      rollers and heated rollers used widely in the converting industry. [View
+      our Gallery](/gallery)
     type: text
   - galleryitem:
       - caption: Aluminium Clamp for Welding Machine
