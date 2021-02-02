@@ -12,7 +12,7 @@ elements:
       pneumatic open and close operation and are fully guarded and of robust
       construction. It is a fully enclosed unit, for perforating polythene,
       P.V.C, paper and other suitable materials. It is ideal for single wound,
-      lay flat tube or gusseted film upto a working width of six metres.
+      lay flat tube or gusseted film up to a working width of six metres.
 
 
       Key Benefits:
