@@ -3,6 +3,9 @@ templateKey: basic-page
 title: PINNED PRODUCTS
 elements:
   - paragraph: >-
+      ![](/img/pin-segment-5.jpg)
+
+
       Pinned Products
 
 
@@ -13,11 +16,6 @@ elements:
       Pinned products can be produced in steel, brass or aluminium in patterns
       from P1s to P160s to suit your perforating requirements.
     type: text
-  - galleryitem:
-      - caption: Pinned Products
-        src: /img/pin-segment-5.jpg
-        thumbnail: /img/pin-segment-5.jpg
-    type: gallery
   - paragraph: >-
       Pinned Sleeves
 
