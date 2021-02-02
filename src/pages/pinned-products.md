@@ -2,7 +2,8 @@
 templateKey: basic-page
 title: PINNED PRODUCTS
 elements:
-  - type: hero
+  - herotitle: PINNED PRODUCTS
+    type: hero
   - paragraph: >-
       Pinned Products
 
