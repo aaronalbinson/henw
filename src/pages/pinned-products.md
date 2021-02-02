@@ -13,6 +13,10 @@ elements:
       Pinned products can be produced in steel, brass or aluminium in patterns
       from P1s to P160s to suit your perforating requirements.
     type: text
+  - galleryitem:
+      - src: /img/pin-segment-5.jpg
+        thumbnail: /img/pin-segment-5.jpg
+    type: gallery
   - paragraph: >-
       Pinned Sleeves
 
@@ -28,5 +32,9 @@ elements:
       perforation pattern or with the use of precision spacers for bespoke
       perforation patterns.
     type: text
+  - galleryitem:
+      - src: /img/pin-segment-3.jpg
+        thumbnail: /img/pin-segment-3.jpg
+    type: gallery
 ---
 
