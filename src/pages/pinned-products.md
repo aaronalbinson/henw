@@ -20,7 +20,7 @@ elements:
       Pinned Sleeves
 
 
-      Heritage Engineering's Pinned Sleeves can be used in both hot ad cold
+      Heritage Engineering's Pinned Sleeves can be used in both hot and cold
       perforating processes.  The Pinned Sleeves can be used on our own
       perforation machinery (PX5/PX9), as well as most existing perforating
       machines in use throughout the world.
