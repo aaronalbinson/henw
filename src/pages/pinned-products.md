@@ -14,7 +14,8 @@ elements:
       from P1s to P160s to suit your perforating requirements.
     type: text
   - galleryitem:
-      - src: /img/pin-segment-5.jpg
+      - caption: Pinned Products
+        src: /img/pin-segment-5.jpg
         thumbnail: /img/pin-segment-5.jpg
     type: gallery
   - paragraph: >-
@@ -33,7 +34,8 @@ elements:
       perforation patterns.
     type: text
   - galleryitem:
-      - src: /img/pin-segment-3.jpg
+      - caption: Pinned sleeves
+        src: /img/pin-segment-3.jpg
         thumbnail: /img/pin-segment-3.jpg
     type: gallery
 ---
