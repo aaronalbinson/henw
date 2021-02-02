@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Perforators Hot Needle/Pin perforator
 elements:
   - paragraph: >-
-      # **Hot Perforators**
+      # **Hot Perforators PX5**
 
 
       **Hot Needle Perforatoring Machine**
