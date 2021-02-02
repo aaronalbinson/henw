@@ -8,7 +8,7 @@ elements:
       manufacturing base in Greater Manchester.
     heroimage: /img/light-blue.png
     herolink: /perforators
-    herotitle: Hot Perforator
+    herotitle: Hot Perforator PX5
     type: hero
   - herodescription: >-
       We are specialist producers of hot, cold and intermittent perforators for
