@@ -3,7 +3,7 @@ templateKey: basic-page
 title: PINNED PRODUCTS
 elements:
   - paragraph: >-
-      ![](/img/pin-segment-5.jpg)
+      ![](/img/pin-segment-5-1-.jpg)
 
 
       Pinned Products
