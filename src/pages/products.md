@@ -40,5 +40,8 @@ elements:
     herolink: /bespoke-parts
     herotitle: Bespoke Parts
     type: hero
+  - herolink: /pinned-products
+    herotitle: PINNED PRODUCTS
+    type: hero
 ---
 
