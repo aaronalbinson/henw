@@ -6,7 +6,7 @@ elements:
       ![](/img/pin-segment-5-1-.jpg)
 
 
-      Pinned Products
+      Heritage Engineering Pinned Products
 
 
       We manufacture the highest quality perforation sleeves, segments and pin
