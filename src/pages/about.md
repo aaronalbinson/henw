@@ -7,20 +7,27 @@ elements:
       word Heritage in mind as we truly believe Engineering and the skills
       involved, passed down from generation to generation is our Heritage.  We
       will endeavour to manufacture and produce any part that is difficult to
-      find anywhere else.
+      find anywhere else.  
     herotitle: About
     type: hero
   - paragraph: >-
       We are a family run company who specialise in the manufacture of machined
-      components for numerous  modern industries including packaging, lifting
-      and printing, producing anything from bespoke one-off items and after
-      market parts for often obsolete machinery to emergency repair work/reverse
-      engineering.  We are capable of machining your standard  materials ie.
+      components for numerous modern industries including packaging, lifting and
+      printing, producing anything from bespoke one-off items and after market
+      parts for often obsolete machinery to emergency repair work/reverse
+      engineering.  We are capable of machining your standard  materials i.e.
       steel, stainless steel and non-ferrous metals and also we have vast
       experience in most modern composites and plastics used widely in todays
-      industries. We also produce our own bespoke hot and cold needle
-      perforating machinery and consumables used throughout the world in the
-      packaging industry.
+      industries. 
+
+
+      We manufacture our own bespoke Hot Needle Perforator and Cold Needle
+      Perforator Machines including all their consumables, throughout the world
+      in the packaging industry.  
+
+
+      We also manufacture our own Manual Core Cutter capable of cutting plastic
+      and cardboard cores for the paper converting industry.
 
 
       We are the company to come to if you want our experience and expertise
