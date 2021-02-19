@@ -24,8 +24,9 @@ elements:
       [PX5 Hot and Cold Perforating Machines](/perforators).
 
 
-      We replace any pinned rollers for most types of Perforatoring Machines
-      used throughout the world.  
+      We replace any pinned rollers for most types of Perforating Machines used
+      throughout the world.  This includes Hot Perforator and Cold Perforator
+      machinery.
 
 
       Patterns include P1, P1.5, P8, P30 and P160, including straight and
