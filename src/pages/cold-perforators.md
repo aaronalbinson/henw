@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Cold Perforators
 elements:
   - paragraph: >-
-      # **Cold Perforators**
+      # **Cold Perforator**
 
 
       Our Cold Perforators have easily interchangeable pin segments, which come
@@ -15,7 +15,7 @@ elements:
       lay flat tube or gusseted film up to a working width of six metres.
 
 
-      Key Benefits:
+      Key Benefits of Cold Perforator:
 
 
       * Easily interchangeable pin segments
