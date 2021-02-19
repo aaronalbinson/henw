@@ -1,6 +1,6 @@
 ---
 templateKey: basic-page
-title: Cold Perforators
+title: Cold Perforator
 elements:
   - paragraph: >-
       # **Cold Perforator**
