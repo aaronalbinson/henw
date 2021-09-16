@@ -45,6 +45,25 @@ elements:
       slitter rewinder units and film blow lines.
 
 
+      Perforated film is used in a large number of sectors including:
+
+
+      * Fruit and veg film packaging
+
+      * fresh bread film packaging
+
+      * pharmaceutical / medical supplies
+
+      * building or roofing insulation manufacturers
+
+      * other products with the need for air and moisture control.
+
+
+      The lidding or packaging of perforated material allows the moisture to
+      escape, which extends the product's freshness and shelf life
+      considerably.  It also reduces the growth of mold in bagged farm produce.
+
+
       ![Hot  Needle Perforator / Hot Perforation Unit
       ](/img/hot-perforator-he-2.png)
 
