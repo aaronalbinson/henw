@@ -21,9 +21,29 @@ elements:
       industries. 
 
 
-      We manufacture our own bespoke Hot Needle Perforator and Cold Needle
-      Perforator Machines including all their consumables, throughout the world
-      in the packaging industry.  
+      We are the leading UK manufacturer of Hot and Cold Micro Perforation
+      Machinery.  We manufacture our own bespoke Hot Needle Perforator Machine
+      and Cold Needle Perforator Machine including all their consumables,
+      selling these throughout the world.  
+
+
+      Perforated film is used in a large number of sectors including:
+
+
+      * Fruit and veg film packaging
+
+      * fresh bread film packaging
+
+      * pharmaceutical / medical supplies
+
+      * building or roofing insulation manufacturers
+
+      * other products with the need for air and moisture control.
+
+
+      The lidding or packaging of perforated material allows the moisture to
+      escape, which extends the product's freshness and shelf life
+      considerably.  It also reduces the growth of mold in bagged farm produce.
 
 
       We also manufacture our own Manual Core Cutter capable of cutting plastic
