@@ -35,11 +35,14 @@ elements:
       - caption: Pinned sleeves
         src: /img/pin-segment-3.jpg
         thumbnail: /img/pin-segment-3.jpg
-      - src: /img/steel-pin-segment-1.jpg
+      - caption: Steel pinned segments
+        src: /img/steel-pin-segment-1.jpg
         thumbnail: /img/steel-pin-segment-1.jpg
-      - src: /img/steel-pinned-segment-2.jpg
+      - caption: Steel pinned segments
+        src: /img/steel-pinned-segment-2.jpg
         thumbnail: /img/steel-pinned-segment-2.jpg
-      - src: /img/steel-pinned-segment-4.jpg
+      - caption: Steel pinned segments
+        src: /img/steel-pinned-segment-4.jpg
         thumbnail: /img/steel-pinned-segment-4.jpg
     type: gallery
 ---
