@@ -57,6 +57,9 @@ elements:
       - caption: Hot Perforator in motion
         src: /img/hot-perf-in-action-3.jpg
         thumbnail: /img/hot-perf-in-action-3.jpg
+      - caption: Steel pinned segments
+        src: /img/steel-pinned-segment-4.jpg
+        thumbnail: /img/steel-pinned-segment-4.jpg
     type: gallery
 ---
 
