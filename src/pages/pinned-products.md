@@ -36,15 +36,5 @@ elements:
         src: /img/pin-segment-3.jpg
         thumbnail: /img/pin-segment-3.jpg
     type: gallery
-  - galleryitem:
-      - caption: Steel pinned segment
-        src: /img/steel-pin-segment-1.jpg
-        thumbnail: /img/steel-pin-segment-1.jpg
-    type: gallery
-  - galleryitem:
-      - caption: Steel pinned segment
-        src: /img/steel-pinned-segment-4.jpg
-        thumbnail: /img/steel-pinned-segment-4.jpg
-    type: gallery
 ---
 
