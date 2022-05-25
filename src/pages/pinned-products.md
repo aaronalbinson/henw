@@ -35,6 +35,9 @@ elements:
       - caption: Pinned sleeves
         src: /img/pin-segment-3.jpg
         thumbnail: /img/pin-segment-3.jpg
+      - caption: brush
+        src: /img/bronze bush 1.JPG
+        thumbnail: /img/bronze bush 1.JPG
     type: gallery
 ---
 
